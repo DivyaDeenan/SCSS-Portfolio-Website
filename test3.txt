@@ -1,0 +1,15 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 20E3-2DAA
+
+ Directory of D:\git
+
+01/25/2018  05:35 PM    <DIR>          .
+01/25/2018  05:35 PM    <DIR>          ..
+01/24/2018  03:51 PM                 0 app.js
+01/25/2018  05:10 PM                 4 m.txt
+01/24/2018  03:57 PM                 0 pap.js
+01/25/2018  05:33 PM                11 test.htm
+01/25/2018  05:33 PM                11 test2.txt
+01/25/2018  05:35 PM                 0 test3.txt
+               6 File(s)             26 bytes
+               2 Dir(s)  48,228,429,824 bytes free
